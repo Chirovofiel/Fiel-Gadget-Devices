@@ -299,20 +299,17 @@ iframe{
     ul{
         line-height: 1;
     }
-    #header-img{
-        
-    }
+
     nav ul li{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+        display: block;
+      
         
     }
     #form input type[email]{
-        width: 200px;
+        width: 140px;
         
     }
   
     
 }
+
